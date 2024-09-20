@@ -4,6 +4,11 @@
 --- If you applying as a DATA SCIENTIST
 --- SQL SERVER , 
 
+--- ADVANCE SQL Programming Concepts
+--- SQL SERVER 
+--- This is an advance section
+--- If you applying as a DATA SCIENTIST
+--- SQL SERVER , Tina
 
 --- VARIABLE
 DECLARE @location VARCHAR(40);
