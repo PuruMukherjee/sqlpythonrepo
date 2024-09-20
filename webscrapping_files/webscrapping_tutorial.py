@@ -9,6 +9,15 @@ from bs4 import BeautifulSoup
 import requests
 import lxml
 import re
+import  math
+import datetime
+import random
+
+
+
+random_numbers = [random.randint() for x in range(10)]
+
+sqaure_random_numbers = [num ** 2 for num in random_numbers]
 
 url = \
     'https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=PYTHON&txtLocation='
